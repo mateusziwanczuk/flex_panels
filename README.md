@@ -1,11 +1,11 @@
 
 
-https://mateuszmatzh.github.io/flex_panels/
+https://mateusziwanczuk.github.io/flex_panels/
 
                                    
 	------------------------------------
 	------- Inspired by: Wes Bos ------- 
 	-------     #JavaScript30    -------
 	------------------------------------ 
-	------- design: mateuszmatzh -------
+	----- design: mateusziwanczuk ------
 	------------------------------------ 
